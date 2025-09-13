@@ -1,0 +1,14 @@
+---
+title: "About Me"
+---
+
+Welcome! 
+
+This site is a space where I share my journey as a software engineer and aspiring data scientist. Here, you can learn about my projects, experiences, and the ways I aim to use technology to make a positive impact in my community.  
+
+I also use this site to showcase my work, share insights, and connect with like-minded people who are passionate about technology, learning, and social impact.
+
+## Contact Me
+
+- **Email:** ssemakulapeterwasswa20@gmail.com  
+- **Phone:** +1(778)227-5870

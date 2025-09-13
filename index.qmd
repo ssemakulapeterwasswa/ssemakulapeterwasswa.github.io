@@ -1,0 +1,13 @@
+---
+title: "S.P.W"
+---
+
+Hello! 
+
+I’m Ssemakula Peter Wasswa, a software engineer and aspiring data scientist from Uganda. I’m passionate about using technology to solve real-world problems and create opportunities for others.
+
+ I strongly believe in giving back to the community, and over the years, I’ve led initiatives to teach young people basic computer skills, web development, and career guidance—helping them build the foundation for brighter futures.
+
+Professionally, I’ve worked on projects ranging from API development and system integration to data services. My goal is to bridge the digital divide in Uganda, particularly by empowering rural communities with technology and data-driven solutions.
+
+When I’m not coding or learning about the latest tech trends, I enjoy mentoring, exploring new ideas, and finding creative ways to give back to my community.
